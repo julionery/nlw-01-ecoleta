@@ -1,0 +1,6 @@
+[submodule "web"]
+	path = web
+	url = https://github.com/julionery/ecoleta-web-react.git
+[submodule "server"]
+	path = server
+	url = https://github.com/julionery/ecoleta-server-nodejs.git
