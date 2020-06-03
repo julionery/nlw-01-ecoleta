@@ -3,6 +3,7 @@ Projeto elaborado na Next Level Week da Rocketseat
 
 ## API 
 #### :rocket: Tecnologias:
+ - [TypeScript](https://www.typescriptlang.org/)
  - [NodeJS](https://nodejs.org/en/)
  
 #### :computer: Bibliotecas e ferramentas:
