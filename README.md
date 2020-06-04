@@ -33,5 +33,10 @@ Este projeto foi elaborado na trilha <b>Booster</b> da <b>Next Level Week #01</b
 ### :earth_americas: Maps
  - [Leaflet](https://leafletjs.com/)
  - [React-Leaflet](https://react-leaflet.js.org/)
+ 
+---
 
-
+<h4 align="center">
+    Feito com ❤ por <a href="https://www.linkedin.com/in/julio-nery/" target="_blank">Júlio Nery</a>!
+    <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>
+</h4>
