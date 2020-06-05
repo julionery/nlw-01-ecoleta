@@ -5,9 +5,15 @@
 
 <p>O <b>Ecoleta</b> é uma aplicação Web e Mobile elaborada para ajudar pessoas a encontrarem pontos de coleta para reciclagem em sua cidade.</p>
 
-![](https://github.com/julionery/rocketseat-nlw/blob/master/docs/ecoleta-web.gif?raw=true)
-
 Este projeto foi elaborado na trilha <b>Booster</b> da <b>Next Level Week #01</b> fornecida gratuitamente pela [Rocketseat](https://rocketseat.com.br/).
+
+<h3 align="center">
+    <img alt="Web" title="Web" height="600px" src="https://github.com/julionery/rocketseat-nlw/blob/master/docs/ecoleta-web.gif?raw=true">
+ </h3>   
+ <h3 align="center">
+<img alt="Mobile" title="Mobile" width="300px" src="https://github.com/julionery/rocketseat-nlw/blob/master/docs/ecoleta-mobile.gif?raw=true">
+        
+</h3>
 
 # [Servidor - API](https://github.com/julionery/ecoleta-server-nodejs)
 #### :rocket: Tecnologias:
@@ -34,6 +40,17 @@ Este projeto foi elaborado na trilha <b>Booster</b> da <b>Next Level Week #01</b
  - [Leaflet](https://leafletjs.com/)
  - [React-Leaflet](https://react-leaflet.js.org/)
  
+# [Aplicação Mobile](https://github.com/julionery/ecoleta-mobile-react-native)
+### :rocket: Tecnologias:
+ - [React Native](https://reactnative.dev/ "React Native")
+ - [TypeScript](https://www.typescriptlang.org/)
+
+### :computer: Bibliotecas e ferramentas:
+ - [Expo](https://expo.io/ "Expo")
+ - [React Navigation](https://reactnavigation.org/ "React Navigation")
+ - [Axios](https://github.com/axios/axios "Axios")
+ - [MailComposer](https://docs.expo.io/versions/latest/sdk/mail-composer/)
+
 ---
 
 <h4 align="center">
