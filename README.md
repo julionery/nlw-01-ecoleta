@@ -1,6 +1,20 @@
 <h3 align="center">
     <img alt="Logo" title="#logo" width="300px" src="https://raw.githubusercontent.com/julionery/ecoleta-web-react/42df1319f325b073d306f70b6e4bd643b8bb959e/src/assets/logo.svg">
 </h3>
+<p align="center">
+  <a href="https://rocketseat.com.br">
+    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
+  </a>
+  <a>
+  <img alt="License" src="https://img.shields.io/github/license/vitorserrano/ecoleta?color=%237519C1">
+</p>
+
+<p align="center">
+  <a href="#api">API</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  <a href="#web">WEB</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#mobile">Mobile</a>&nbsp;&nbsp;&nbsp;
+</p>
+
 <h2 align="center">Rocketseat - Next Level Week #01</h2>
 
 <p>O <b>Ecoleta</b> é uma aplicação Web e Mobile elaborada para ajudar pessoas a encontrarem pontos de coleta para reciclagem em sua cidade.</p>
@@ -15,15 +29,18 @@ Este projeto foi elaborado na trilha <b>Booster</b> da <b>Next Level Week #01</b
         
 </h3>
 
+<i id="api"></i>
+
 # [Servidor - API](https://github.com/julionery/ecoleta-server-nodejs)
 #### :rocket: Tecnologias:
  - [NodeJS](https://nodejs.org/en/)
  - [TypeScript](https://www.typescriptlang.org/)
-
  
 #### :computer: Bibliotecas e ferramentas:
 - [Knex](http://knexjs.org/) 
 - [Express](https://expressjs.com/)
+
+<i id="web"></i>
 
 # [Aplicação WEB](https://github.com/julionery/ecoleta-web-react)
 ### :rocket: Tecnologias:
@@ -39,6 +56,8 @@ Este projeto foi elaborado na trilha <b>Booster</b> da <b>Next Level Week #01</b
 ### :earth_americas: Maps
  - [Leaflet](https://leafletjs.com/)
  - [React-Leaflet](https://react-leaflet.js.org/)
+
+<i id="mobile"></i>
  
 # [Aplicação Mobile](https://github.com/julionery/ecoleta-mobile-react-native)
 ### :rocket: Tecnologias:
