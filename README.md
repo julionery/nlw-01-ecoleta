@@ -32,13 +32,40 @@ Este projeto foi elaborado na trilha <b>Booster</b> da <b>Next Level Week #01</b
 <i id="api"></i>
 
 # [Servidor - API](https://github.com/julionery/ecoleta-server-nodejs)
-#### :rocket: Tecnologias:
+### :rocket: Tecnologias:
  - [NodeJS](https://nodejs.org/en/)
  - [TypeScript](https://www.typescriptlang.org/)
  
-#### :computer: Bibliotecas e ferramentas:
-- [Knex](http://knexjs.org/) 
-- [Express](https://expressjs.com/)
+### :computer: Bibliotecas e ferramentas:
+- [Knex](http://knexjs.org/) - Construtor de consultas SQL para Postgres, MSSQL, MySQL, MariaDB, SQLite3, Oracle e Amazon Redshift.
+- [Express](https://expressjs.com/) - Utilizada para auxiliar na construção da api.
+- [Multer](https://github.com/daryl/mutter) - Utilizada para upload de imagens.
+- [Celebrate](https://github.com/arb/celebrate) - Utilizada para fazer as validações dos campos.
+
+### :information_source: Como Usar:
+
+Para executar corretamente esta aplicação você precisará do [Git](https://git-scm.com) e [NodeJS](https://nodejs.org/en/) já instalados. 
+
+No seu terminal digite os comandos:
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/julionery/ecoleta-server-nodejs.git
+
+# Vá para a pasta do repositório
+$ cd ecoleta-server-nodejs/
+
+# Instale as dependências
+$ npm install
+
+# Crie o banco de dados
+$ npm run knex:migrate
+$ npm run knex:seed
+
+# Inicie a aplicação
+$ npm run dev
+
+```
 
 <i id="web"></i>
 
@@ -52,10 +79,34 @@ Este projeto foi elaborado na trilha <b>Booster</b> da <b>Next Level Week #01</b
  - [React Icons](https://react-icons.github.io/react-icons/)
  - [React Router](https://reacttraining.com/react-router/)
  - [API - IBGE](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1)
-
-### :earth_americas: Maps
+ - [React Dropzone](https://github.com/react-dropzone/react-dropzone)
+ - [Yup - Validations](https://github.com/jquense/yup)
+ 
+### :earth_americas: Maps:
  - [Leaflet](https://leafletjs.com/)
  - [React-Leaflet](https://react-leaflet.js.org/)
+
+
+### :information_source: Como Usar:
+
+Para executar corretamente esta aplicação você precisará do [Git](https://git-scm.com) e [NodeJS](https://nodejs.org/en/) já instalados. E da aplicação [(Servidor - API)](https://github.com/julionery/ecoleta-server-nodejs) devidamente configurada.  
+
+No seu terminal digite os comandos:
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/julionery/ecoleta-web-react.git
+
+# Vá para a pasta do repositório
+$ cd ecoleta-web-react/
+
+# Instale as dependências
+$ npm install
+
+# Inicie a aplicação
+$ npm start
+
+```
 
 <i id="mobile"></i>
  
@@ -69,6 +120,28 @@ Este projeto foi elaborado na trilha <b>Booster</b> da <b>Next Level Week #01</b
  - [React Navigation](https://reactnavigation.org/ "React Navigation")
  - [Axios](https://github.com/axios/axios "Axios")
  - [MailComposer](https://docs.expo.io/versions/latest/sdk/mail-composer/)
+
+### :information_source: Como Usar:
+
+Para executar corretamente esta aplicação você precisará do [Git](https://git-scm.com), [NodeJS](https://nodejs.org/en/) e [Yarn](https://yarnpkg.com/) já instalados. E da aplicação [(Servidor - API)](https://github.com/julionery/ecoleta-server-nodejs) devidamente configurada e é essencial ter o [Expo](https://expo.io/) instalado de forma global na máquina.  
+
+No seu terminal digite os comandos:
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/julionery/ecoleta-mobile-react-native.git
+
+# Vá para a pasta do repositório
+$ cd ecoleta-mobile-react-native/
+
+# Instale as dependências
+$ npm install
+$ expo install
+
+# Inicie a aplicação
+$ npm start
+
+```
 
 ---
 
