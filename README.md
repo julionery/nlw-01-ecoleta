@@ -146,7 +146,7 @@ $ npm start
 ```
 
 # :computer: Melhorias
-:heavy_check_mark: Melhorado as validações do cadastro no servidor e no aplicação web.
+:heavy_check_mark: Melhorado as validações do cadastro no servidor e na aplicação web.
 
 :heavy_check_mark: Adicionado as mensagens de erro na aplicação web.
 
