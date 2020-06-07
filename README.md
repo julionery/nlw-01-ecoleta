@@ -12,7 +12,8 @@
 <p align="center">
   <a href="#api">API</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
   <a href="#web">WEB</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#mobile">Mobile</a>&nbsp;&nbsp;&nbsp;
+  <a href="#mobile">Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#computer-melhorias">Melhorias</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <h2 align="center">Rocketseat - Next Level Week #01</h2>
@@ -22,16 +23,16 @@
 Este projeto foi elaborado na trilha <b>Booster</b> da <b>Next Level Week #01</b> fornecida gratuitamente pela [Rocketseat](https://rocketseat.com.br/).
 
 <h3 align="center">
-    <img alt="Web" title="Web" height="600px" src="https://github.com/julionery/rocketseat-nlw/blob/master/docs/ecoleta-web.gif?raw=true">
+    <img alt="Web" title="Web" src="https://github.com/julionery/docs/blob/master/NLW-01/ecoleta-web.gif?raw=true">
  </h3>   
  <h3 align="center">
-<img alt="Mobile" title="Mobile" width="300px" src="https://github.com/julionery/rocketseat-nlw/blob/master/docs/ecoleta-mobile.gif?raw=true">
+<img alt="Mobile" title="Mobile" width="300px" src="https://github.com/julionery/docs/blob/master/NLW-01/ecoleta.gif?raw=true">
         
 </h3>
 
 <i id="api"></i>
 
-# [Servidor - API](https://github.com/julionery/ecoleta-server-nodejs)
+# :cloud: [Servidor - API](https://github.com/julionery/ecoleta-server-nodejs)
 ### :rocket: Tecnologias:
  - [NodeJS](https://nodejs.org/en/)
  - [TypeScript](https://www.typescriptlang.org/)
@@ -69,7 +70,7 @@ $ npm run dev
 
 <i id="web"></i>
 
-# [Aplicação WEB](https://github.com/julionery/ecoleta-web-react)
+# :earth_americas: [Aplicação WEB](https://github.com/julionery/ecoleta-web-react)
 ### :rocket: Tecnologias:
  - [React](https://reactjs.org/ "ReactJS")
  - [TypeScript](https://www.typescriptlang.org/)
@@ -81,11 +82,11 @@ $ npm run dev
  - [API - IBGE](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1)
  - [React Dropzone](https://github.com/react-dropzone/react-dropzone)
  - [Yup - Validations](https://github.com/jquense/yup)
+ - [Toastfy](https://github.com/fkhadra/react-toastify)
  
 ### :earth_americas: Maps:
  - [Leaflet](https://leafletjs.com/)
  - [React-Leaflet](https://react-leaflet.js.org/)
-
 
 ### :information_source: Como Usar:
 
@@ -110,7 +111,7 @@ $ npm start
 
 <i id="mobile"></i>
  
-# [Aplicação Mobile](https://github.com/julionery/ecoleta-mobile-react-native)
+# :iphone: [Aplicação Mobile](https://github.com/julionery/ecoleta-mobile-react-native)
 ### :rocket: Tecnologias:
  - [React Native](https://reactnative.dev/ "React Native")
  - [TypeScript](https://www.typescriptlang.org/)
@@ -142,6 +143,13 @@ $ expo install
 $ npm start
 
 ```
+
+# :computer: Melhorias
+:heavy_check_mark: Melhorado as validações do cadastro no servidor e no aplicação web.
+
+:heavy_check_mark: Adicionado as mensagens de erro na aplicação web.
+
+:heavy_check_mark: Atualizado as campos de UF e Cidade na aplicação mobile para um campo de seleção buscando os dados da API do IBGE.
 
 ---
 
