@@ -121,6 +121,7 @@ $ npm start
  - [React Navigation](https://reactnavigation.org/ "React Navigation")
  - [Axios](https://github.com/axios/axios "Axios")
  - [MailComposer](https://docs.expo.io/versions/latest/sdk/mail-composer/)
+ - [API - IBGE](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1)
 
 ### :information_source: Como Usar:
 
@@ -149,7 +150,7 @@ $ npm start
 
 :heavy_check_mark: Adicionado as mensagens de erro na aplicação web.
 
-:heavy_check_mark: Atualizado as campos de UF e Cidade na aplicação mobile para um campo de seleção buscando os dados da API do IBGE.
+:heavy_check_mark: Atualizado os campos de UF e Cidade na aplicação mobile para um campo de seleção buscando os dados da API do IBGE.
 
 ---
 
