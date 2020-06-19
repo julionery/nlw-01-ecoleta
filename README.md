@@ -160,12 +160,12 @@ $ npm start
 
 ## :link: Como contribuir
 
-- Faça um Fork do repositório,
-- Faça um clone do respositório
-- Crie uma branch com a sua feature
-- Faça um commit com suas mudanças
-- Push a sua branch
-- Ir em Pull Requests do projeto original e criar uma pull request com o seu commit
+- Faça um **fork** do projeto;
+- Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
+- Salve as alterações e crie uma mensagem de commit contando o que você fez:`git commit -m "feature: My new feature"`
+- Envie as suas alterações: `git push origin my-feature`
+
+> Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions)
 
 ## :memo: Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
