@@ -6,7 +6,7 @@
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
   </a>
   <a>
-  <img alt="License" src="https://img.shields.io/github/license/vitorserrano/ecoleta?color=%237519C1">
+  <img alt="License" src="https://img.shields.io/github/license/julionery/nlw-01-ecoleta?color=%237519C1">
 </p>
 
 <p align="center">
